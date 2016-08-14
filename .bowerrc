@@ -1,4 +1,4 @@
 {
   "directory": "lib/",
-  "registry": "http://localhost:5678/"
+  "registry":{ "search":["http://localhost:5678/"]}
 }
